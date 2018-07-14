@@ -1,0 +1,8 @@
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/bin/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.deps.json
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/bin/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.dll
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/bin/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.pdb
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/obj/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.csproj.CoreCompileInputs.cache
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/obj/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.AssemblyInfoInputs.cache
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/obj/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.AssemblyInfo.cs
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/obj/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.dll
+/Users/wanbin/Documents/project/dotnet/com.followme.atlantis/src/Atlantis/obj/Release/netstandard2.0/Followme.AspNet.Core.FastCommon.pdb
