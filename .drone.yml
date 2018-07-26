@@ -1,0 +1,6 @@
+pipeline:
+  build:
+    image: microsoft/dotnet:latest
+    commands:
+      - cd src
+      - dotnet build
